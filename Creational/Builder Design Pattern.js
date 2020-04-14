@@ -1,3 +1,8 @@
+// The Difference Between Factory and Builder
+// Is When the Creational Of the Object is In Multi steps process
+// But the Factory is One Step
+
+
 // 1-Traditional Way
 // class Address{
 //     constructor(zip, street)
